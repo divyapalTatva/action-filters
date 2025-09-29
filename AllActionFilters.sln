@@ -3,9 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllActionFilters", "AllActionFilters\AllActionFilters.csproj", "{EB211738-110E-41DF-8D15-A08C33AF15BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllActionFilters", "AllActionFilters\AllActionFilters.csproj", "{EB211738-110E-41DF-8D15-A08C33AF15BE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{01F1AEB0-97FA-4811-90B7-390DB102FA9C}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\LPT186\Downloads\Action Filters.docx = C:\Users\LPT186\Downloads\Action Filters.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
